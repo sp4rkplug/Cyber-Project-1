@@ -1,0 +1,6 @@
+# config file for ansible -- https://ansible.com/
+# ===============================================
+
+remote_user = John_Conner
+
+private_key_file = ~/my_key
